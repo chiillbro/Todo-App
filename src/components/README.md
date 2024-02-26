@@ -1,1 +1,0 @@
-- Created Todo app using React.
