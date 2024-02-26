@@ -1,0 +1,15 @@
+.footer {
+  background-color: #f7ca18;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  height: 100px;
+  padding: 20px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.todos {
+  margin: 50px;
+}
