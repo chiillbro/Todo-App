@@ -1,0 +1,5 @@
+- Created a simple ToDo App using React,
+- Used useState hook to store and change the data dynamically based on the user input,
+- created multiple components and reused them which reflects sole theme of React technology,
+- In this Project, I used "Prop-drilling", try to experiment using <strong>useContext</strong> hook to share state between deeply nested components more easily than with useState alone.
+- ![Screenshot 2024-02-26 205230](https://github.com/chiillbro/Todo-App/assets/144758027/dd2e94f0-54f5-426c-a65d-fee6eca71d7b)
